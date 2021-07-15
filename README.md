@@ -8,8 +8,8 @@ This project's purpose was to create a clean music player using React JS, SASS a
 
 ## Getting Started
 
-$ cd waves-music-app
-$ npm install
+$ cd waves-music-app\
+$ npm install\
 $ npm run start
 
 ## Built With
