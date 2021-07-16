@@ -4,13 +4,12 @@
 
 ## Project Description
 
-This project's purpose was to create a clean music player using React JS, SASS and CSS. This music player was made through a course from Dev Ed.
+This project's purpose was to create a clean music player using React JS, SASS and CSS. This music player was made through a course from [Dev Ed](https://developedbyed.com/courses).
 
-## Getting Started
-
-$ cd waves-music-app\
-$ npm install\
-$ npm run start
+## Setup
+1. Clone this repository
+2. `npm install` for dependencies
+3. `npm start` to start the application.
 
 ## Built With
 
@@ -24,8 +23,10 @@ $ npm run start
 
 ## Future Updates
 
-- [ ] More music
-- [ ] Provid more details on music
+- [ ] More music Selection
+- [ ] Rotating album cover
+- [ ] Animated background on music start
+- [ ] Provide more details on music
 
 ## Author
 
