@@ -23,7 +23,6 @@ This project's purpose was to create a clean music player using React JS, SASS a
 
 ## Future Updates
 
-- [ ] More music Selection
 - [ ] Rotating album cover
 - [ ] Animated background on music start
 - [ ] Provide more details on music
